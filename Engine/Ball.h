@@ -18,5 +18,4 @@ public:
 private:
 	static constexpr Color c = Colors::Gray;
 	Location loc;
-	Location loc2;
 };
