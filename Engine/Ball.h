@@ -4,6 +4,8 @@
 
 class Ball
 {
+	//Github Test
+
 public:
 	Ball(Location loc);
 	void Draw(Graphics& gfx) const;
@@ -17,4 +19,5 @@ public:
 private:
 	static constexpr Color c = Colors::Gray;
 	Location loc;
+	Location loc2;
 };
