@@ -4,6 +4,7 @@
 
 class Ball
 {
+	//Master Test
 public:
 	Ball(Location loc);
 	void Draw(Graphics& gfx) const;
